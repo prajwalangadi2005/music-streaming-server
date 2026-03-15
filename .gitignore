@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+certs/server.key
+songs/
+qos_client*.csv
+concurrent_test_*.csv
+received_audio.mp3
