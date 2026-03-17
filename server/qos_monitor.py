@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # ─────────────────────────────────────────────────────────────
 #  server/qos_monitor.py  —  Step 4: QoS Metrics Collection
 #

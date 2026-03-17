@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # ─────────────────────────────────────────────────────────────
 #  client/buffer_manager.py  —  Step 3: Audio Buffer
 #

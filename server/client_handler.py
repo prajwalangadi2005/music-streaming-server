@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # ─────────────────────────────────────────────────────────────
 #  server/client_handler.py  —  Step 5: Robust error handling
 #

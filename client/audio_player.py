@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-# ─────────────────────────────────────────────────────────────
+
 #  client/audio_player.py  —  Step 3: Audio Playback
 #
 #  Pulls chunks from BufferManager and plays them using pygame.
@@ -9,7 +8,7 @@
 #    - Collect ALL chunks into a BytesIO object first
 #    - Once EOF received, play the complete audio
 #    - This avoids pygame limitations with streaming partial MP3s
-# ─────────────────────────────────────────────────────────────
+
 
 import threading
 import time
@@ -19,7 +18,7 @@ import sys
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 
-# Try to import pygame — guide user if not installed
+# Try to import pygame 
 try:
     import pygame
     PYGAME_AVAILABLE = True

@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # ─────────────────────────────────────────────────────────────
 #  server/stream_manager.py  —  Step 5: Robust streaming
 #

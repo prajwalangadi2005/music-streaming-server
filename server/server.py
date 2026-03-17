@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # ─────────────────────────────────────────────────────────────
 #  server/server.py  —  Step 5: Optimized + Edge Cases Fixed
 #
